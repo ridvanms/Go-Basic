@@ -1,4 +1,2 @@
 # Go-Basic
-Anknowing  
-
-# "Go" 
+Anknowing  <strong>Go</strong>
