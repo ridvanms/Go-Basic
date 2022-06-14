@@ -30,4 +30,8 @@ func main() {
 	for k, v := range emails {
 		fmt.Printf("%s: %s\n", k, v)
 	}
+
+	for k := range emails {
+		fmt.Println("Name: " + k)
+	}
 }
